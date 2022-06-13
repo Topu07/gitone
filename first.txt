@@ -3,3 +3,4 @@ lets try modify files
 ls shows all the files in selected folder..
 git status diye summery dekhte hoy
 cd ../ diye directory te jete hoy
+kono folder a seita thikvabe bujhte hobe..onedrive/documents/gitone...for ex
